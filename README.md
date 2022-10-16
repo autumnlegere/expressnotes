@@ -1,2 +1,2 @@
 # expressnotes
-Express notes
+Express.js Note Taker
